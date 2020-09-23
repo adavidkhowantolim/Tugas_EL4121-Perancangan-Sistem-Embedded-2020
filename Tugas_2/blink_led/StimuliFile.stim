@@ -1,0 +1,5 @@
+$log PINB
+$startlog output.stim
+#1000
+$stoplog
+$break

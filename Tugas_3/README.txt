@@ -1,0 +1,1 @@
+Soal 2 harus di copas ke main_blinky.c di visual studio biar bisa jalan.
